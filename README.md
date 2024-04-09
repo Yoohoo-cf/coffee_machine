@@ -17,7 +17,7 @@ To use the coffee machine program, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    https://github.com/Yoohoo-cf/coffee_machine.git
+    git clone https://github.com/Yoohoo-cf/coffee_machine.git
     cd coffee_machine
     ```
 2. Run the script using Python:
